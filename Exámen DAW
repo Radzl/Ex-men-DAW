@@ -2,23 +2,23 @@
 
 ---
 
-## *Índice**
+## **Índice**
 
-1. *Tipo test*
+1. **Tipo test**
 
-2. *SSH + Command line*
+2. **SSH + Command line**
 
-3. *Virtual Host*
+3. **Virtual Host**
 
----
-### *Tipo test*
+--- 
+### **Tipo test**
 
 El apartado de tipo test ha sido contestado mediante información de los apuntes y de webs confiables con información sobre Markdown y 
 comandos de Ubuntu como [Hostinger](https://www.hostinger.es/tutoriales/linux-comandos) y [Guía Ubuntu](https://www.guia-ubuntu.com/index.php/Comandos).
 
-### *SSH + Command line*
+### **SSH + Command line**
 
-*Título de la actividad:*
+**Título de la actividad:**
 
 Deberás ir al escritorio y crear un archivo de texto que contenga como nombre de archivo, 
 tu nombre propio y apellido sin espacios y con extensión txt (por ejemplo ArnoldSchwarzenegger.txt) escribe en su interior el resultado de whoami.
