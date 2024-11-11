@@ -5,9 +5,7 @@
 ## **Índice**
 
 1. **Tipo test**
-
 2. **SSH + Command line**
-
 3. **Virtual Host**
 
 --- 
