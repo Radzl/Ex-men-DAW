@@ -38,6 +38,20 @@ Después, mediante otro comando, concatena al final del archivo el nombre del co
 >**Título de la actividad:**
 Documenta todos los pasos realizados en un archivo MarkDown. Crea en tu máquina un virtualhost donde escribiendo “daw.ejercicio3.com” nos envíe a una web local ubicada en /var/www/miWeb, y que el correo de administrador sea el tuyo. No cierres la máquina al acabar el examen para poder comprobar su funcionamiento.
 
+>A continuación detallaré los comandos ejecutados y comentarios aclarativos para llevar a cabo la actividad.
+
+1. **sudo apt update** (Actualizaciones)
+2. **sudo apt install apache2** (Instalar apache)
+3. **sudo mkdir -p /var/www/radu.com/Examen** (Crear carpeta Examen)
+4. **sudo chown -R $USER:$USER /var/www/radu.com/Examen** (Conceder permisos)
+5. **sudo chmod -R 755 /var/www** (Garantizar el acceso a lectura)
+6. **nano /var/www/radu.com/Examen/index.html** (Abrir index.html)
+7. **nano /var/www/radu.com/Examen/index.html** (Modificar info)
+8. **sudo nano /etc/apache2/sites-available/radu.com.conf** (Editor privilegios)
+9. **Ctrl+/**  (Reemplazar el correo por defecto por radudaw1@gmail.com)
+
+
+
 
 
 
